@@ -1,10 +1,10 @@
 {
   "private": true,
   "name": "hobbies",
-  "homepage": "https://hobbies-.netlify.com",
+  "homepage": "https://adventurehobbies.netlify.com",
   "scripts": {
     "deploy": "netlify deploy --prod --dir=public",
-    "postdeploy": "echo 'Your site was deployed to https://hobbies-.netlify.com'",
+    "postdeploy": "echo 'Your site was deployed to https://adventurehobbies.netlify.com'",
     "start": "browser-sync start --server 'public' --files 'public'"
   },
   "devDependencies": {
