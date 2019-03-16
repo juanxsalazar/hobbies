@@ -50,9 +50,15 @@ text-decoration: underline;
   border-radius: 50%;
 }
 
-footer {
+.shortfoot {
   bottom: 0;
   position: fixed;
   /* position: relative; */
   
+}
+
+h5, p {background-color: rgba(0, 0, 0, 0.518);
+  font-size: 1.2rem;
+  width: 70%;
+margin: auto;
 }
